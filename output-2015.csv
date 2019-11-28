@@ -1,0 +1,9 @@
+,accuracy,formatted_address,google_place_id,input_string,latitude,longitude,number_of_results,postcode,status,type
+0,ROOFTOP,"3 Brunswick St N, Arran Quay, Dublin, Co. Dublin, D07 A006, Ireland",ChIJp8SdRwANZ0gR3g9DXwto_3A,"108 THE HARDWICKE VILLAGE, NORTH BRUNSWICK ST, DUBLIN 7,Dublin,Ireland",53.3509105,-6.274621700000001,2,D07 A006,OK,"establishment,point_of_interest"
+1,ROOFTOP,"The Cedars, Herbert Park Ln, Anglesea Rd, Ballsbridge, Dublin 4, Ireland",ChIJB68oTsYOZ0gRrvuEdv7Fii4,"12 THE CEDARS, MONKSTOWN VALLEY, MONKSTOWN,Dublin,Ireland",53.3273214,-6.231961699999999,2,,OK,subpremise
+2,,,,"148 DEEL MANOR, ASKEATON, CO LIMERICK,Limerick,Ireland",,,0,,REQUEST_DENIED,
+3,ROOFTOP,"4 Shrewsbury, Ballsbridge, Dublin 4, D04 F2W5, Ireland",ChIJKfi4DdAOZ0gR4hR2zs03Sn4,"4 SHREWSBURY, BALLSBRIDGE, DUBLIN 4,Dublin,Ireland",53.3253658,-6.2201552,2,D04 F2W5,OK,street_address
+4,ROOFTOP,"41 The Briary, Kilpoole Lower, Blainroe, Co. Wicklow, A67 XY32, Ireland",ChIJFaXlTwW3Z0gRdjJclqhK4h8,"41 THE BRIARY, BLAINROE, WICKLOW,Wicklow,Ireland",52.9465501,-6.0245881,1,A67 XY32,OK,street_address
+5,ROOFTOP,"5 Assumption Pl, Scartagh, Clonakilty, Co. Cork, P85 XK77, Ireland",ChIJdejX_uhWREgRSKvX8COovNw,"5 ASSUMPTION PLACE, CLONAKILTY, CORK,Cork,Ireland",51.6242933,-8.8898771,1,P85 XK77,OK,street_address
+6,APPROXIMATE,"Carrowlagan, Mullagh, Co. Clare, Ireland",ChIJ7wOOr50dW0gR0BUyl6nHAAo,"Coore East, Mullagh, County Clare,Clare,Ireland",52.7998388,-9.4144619,1,,OK,"locality,political"
+7,APPROXIMATE,"Moylough More, Moylough, Co. Galway, Ireland",ChIJI-2IuUUMXEgRkIAxl6nHAAo,"Kilerrin Road, Moylough, Ballinasloe,Galway,Ireland",53.48770529999999,-8.565876,2,,OK,"locality,political"

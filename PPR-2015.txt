@@ -1,0 +1,9 @@
+Date of Sale (dd/mm/yyyy),Address,Postal Code,County,Price (€),Not Full Market Price,VAT Exclusive,Description of Property,Property Size Description
+"02/01/2015","108 THE HARDWICKE VILLAGE, NORTH BRUNSWICK ST, DUBLIN 7","Dublin 7","Dublin","€138,000.00","No","No","Second-Hand Dwelling house /Apartment",""
+"02/01/2015","12 THE CEDARS, MONKSTOWN VALLEY, MONKSTOWN","","Dublin","€270,000.00","No","No","Second-Hand Dwelling house /Apartment",""
+"02/01/2015","148 DEEL MANOR, ASKEATON, CO LIMERICK","","Limerick","€67,000.00","No","No","Second-Hand Dwelling house /Apartment",""
+"02/01/2015","4 SHREWSBURY, BALLSBRIDGE, DUBLIN 4","Dublin 4","Dublin","€900,000.00","No","No","Second-Hand Dwelling house /Apartment",""
+"02/01/2015","41 THE BRIARY, BLAINROE, WICKLOW","","Wicklow","€176,000.00","Yes","No","Second-Hand Dwelling house /Apartment",""
+"02/01/2015","5 ASSUMPTION PLACE, CLONAKILTY, CORK","","Cork","€155,000.00","No","No","Second-Hand Dwelling house /Apartment",""
+"02/01/2015","Coore East, Mullagh, County Clare","","Clare","€100,000.00","No","Yes","New Dwelling house /Apartment","greater than or equal to 38 sq metres and less than 125 sq metres"
+"02/01/2015","Kilerrin Road, Moylough, Ballinasloe","","Galway","€120,000.00","No","No","Second-Hand Dwelling house /Apartment",""
